@@ -1,0 +1,5 @@
+numpy - 1.23.3
+pickle-mixin
+streamlit - 1.24.0
+streamlit -option-menu
+scikit-learn - 1.1.2
